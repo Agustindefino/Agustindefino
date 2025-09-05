@@ -1,5 +1,3 @@
-Agustindefino/Agustindefino
-
 # Olá, eu sou o Agustin! 👋
 
 Estudante de Desenvolvimento de Sistemas e em transição de carreira para a área de tecnologia focado em construir soluções digitais.
