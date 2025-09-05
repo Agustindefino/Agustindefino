@@ -1,7 +1,8 @@
-# Olá, eu sou o Agustin! 👋
+# ¡Hola a todos! Sou o Agustin! 👋
 
-Estudante de Desenvolvimento de Sistemas e em transição de carreira para a área de tecnologia focado em construir soluções digitais.
+Estudante de Desenvolvimento de Sistemas em transição de carreira para a área de tecnologia. Focado em construir soluções digitais... y con un toque argentino. 😉
 
+Seja bem-vindo(a) ao meu espaço de aprendizado e projetos. ¡Nos vemos en el código!
 ---
 
 ### Habilidades e Ferramentas
