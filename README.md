@@ -23,3 +23,7 @@ Estudante de Desenvolvimento de Sistemas e em transição de carreira para a ár
 ### Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-PERFIL-DO-LINKEDIN](https://www.linkedin.com/in/agustin-emanuel-fernandez-088b1413a/))
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Agustindefino&show_icons=true&theme=dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Agustindefino&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
