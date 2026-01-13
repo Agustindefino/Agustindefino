@@ -1,8 +1,8 @@
-# ¡Hola a todos! Sou o Agustin! 👋
+# ¡Hola a todos! Sou o Agustin 👋
 
-Estudante de Desenvolvimento de Sistemas em transição de carreira para a área de tecnologia. Focado em construir soluções digitais... y con un toque argentino. 😉
+Sou formado como **Técnico em Desenvolvimento de Sistemas**, com experiência em **vendas, atendimento ao cliente e suporte**, unindo organização, comunicação e base em sistemas para contribuir com soluções práticas no dia a dia das empresas.
 
-Seja bem-vindo(a) ao meu espaço de aprendizado e projetos. ¡Nos vemos en el código!
+Tenho familiaridade com ambientes digitais, lógica de sistemas, colaboração em equipe e melhoria de processos, sempre com foco em eficiência e aprendizado contínuo.
 ---
 
 ### Habilidades e Ferramentas
