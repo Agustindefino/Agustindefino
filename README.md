@@ -1,6 +1,6 @@
 # ¡Hola a todos! Sou o Agustin 👋
-
-Sou formado como **Técnico em Desenvolvimento de Sistemas**, com experiência em **vendas, atendimento ao cliente e suporte**, unindo organização, comunicação e base em sistemas para contribuir com soluções práticas no dia a dia das empresas.
+Sou desenvolvedor focado em projetos e aprendizado contínuo.
+Venho da formação técnica em Desenvolvimento de Sistemas e uso o código para testar ideias e construir soluções reais.
 
 Tenho familiaridade com ambientes digitais, lógica de sistemas, colaboração em equipe e melhoria de processos, sempre com foco em eficiência e aprendizado contínuo.
 ---
