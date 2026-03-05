@@ -1,10 +1,8 @@
-# ¡Hola a todos! Sou o Agustin 👋
-Sou desenvolvedor focado em projetos e aprendizado contínuo.
-Venho da formação técnica em Desenvolvimento de Sistemas e uso o código para testar ideias e construir soluções reais.
+# ¡Hola a todos! 👋
 
-Tenho familiaridade com ambientes digitais, lógica de sistemas, colaboração em equipe e melhoria de processos, sempre com foco em eficiência e aprendizado contínuo.
----
+Por aqui jogando a criar coisas que (às vezes) funcionam.
 
+Estudante de Desenvolvimento de Sistemas.
 ### Habilidades e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -15,9 +13,6 @@ Tenho familiaridade com ambientes digitais, lógica de sistemas, colaboração e
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black)
 
 
 
