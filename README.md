@@ -1,9 +1,5 @@
 # ¡Hola a todos! 👋
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Por+aqui+criando+coisas...;Estudante+de+Dev+de+Sistemas;Apaixonado+por+Python" />
-</p>
-
 Por aqui jogando a criar coisas que (às vezes) funcionam.
 
 Estudante de Desenvolvimento de Sistemas.
@@ -28,3 +24,7 @@ Estudante de Desenvolvimento de Sistemas.
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Agustindefino&show_icons=true&theme=dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Agustindefino&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Minhas Contribuições (Snake Game)
+![Snake animation](https://github.com/Agustindefino/Agustindefino/blob/output/github-contribution-grid-snake.svg)
