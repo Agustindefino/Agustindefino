@@ -1,5 +1,9 @@
 # ¡Hola a todos! 👋
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Por+aqui+criando+coisas...;Estudante+de+Dev+de+Sistemas;Apaixonado+por+Python" />
+</p>
+
 Por aqui jogando a criar coisas que (às vezes) funcionam.
 
 Estudante de Desenvolvimento de Sistemas.
