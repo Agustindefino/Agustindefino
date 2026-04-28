@@ -1,14 +1,9 @@
 name: generate animation
 
 on:
-  # rodar automaticamente a cada 24 horas
   schedule:
-    - cron: "0 */24 * * *" 
-  
-  # permite rodar manualmente a qualquer momento
+    - cron: "0 0 * * *" 
   workflow_dispatch:
-  
-  # roda a cada push na branch main/master
   push:
     branches:
     - master
@@ -20,7 +15,6 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # gera o jogo da cobrinha a partir do gráfico de contribuições
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -29,7 +23,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      # envia o conteúdo de dist para a branch output
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
