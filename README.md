@@ -1,7 +1,7 @@
 # ¡Hola a todos! 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&pause=1000&color=36BCF7&width=550&lines=Building+things+that+(sometimes)+work;Software+Systems+Student;Turning+logic+into+solutions;Always+learning+new+technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&pause=1000&color=61FF00&width=550&lines=Building+things+that+(sometimes)+work;Software+Systems+Student;Turning+logic+into+solutions;Always+learning+new+technologies" />
 </p>
 
 Por aqui jogando a criar coisas que (às vezes) funcionam.
@@ -27,5 +27,42 @@ Estudante de Desenvolvimento de Sistemas.
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Agustindefino&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Minhas Contribuições (Snake Game)
-![Snake animation](https://github.com/Agustindefino/Agustindefino/blob/output/github-contribution-grid-snake.svg)
+name: generate animation
+
+on:
+  # rodar automaticamente a cada 24 horas
+  schedule:
+    - cron: "0 */24 * * *" 
+  
+  # permite rodar manualmente a qualquer momento
+  workflow_dispatch:
+  
+  # roda a cada push na branch main/master
+  push:
+    branches:
+    - master
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      # gera o jogo da cobrinha a partir do gráfico de contribuições
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+      # envia o conteúdo de dist para a branch output
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
