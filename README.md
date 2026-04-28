@@ -1,13 +1,14 @@
 # ¡Hola a todos! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Estudante+de+Desenvolvimento;Apaixonado+por+Python;Criando+coisas+que+(às+vezes)+funcionam)](https://git.io/typing-svg)
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&pause=1000&color=36BCF7&width=550&lines=Building+things+that+(sometimes)+work;Software+Systems+Student;Turning+logic+into+solutions;Always+learning+new+technologies" />
+</p>
 
 Por aqui jogando a criar coisas que (às vezes) funcionam.
 
 Estudante de Desenvolvimento de Sistemas.
 ### Habilidades e Ferramentas
 
-<p align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -17,7 +18,6 @@ Estudante de Desenvolvimento de Sistemas.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-</p>
 
 
 
